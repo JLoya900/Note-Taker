@@ -57,4 +57,4 @@ When the app is opened, the user will be brought to a landing page with a 'Get S
 
 Heroku link : https://note-taker-basic.herokuapp.com/
 
-For any questions or to report issues, email me at: nidaqg@gmail.com
+For any questions or to report issues, email me at: jloya7557@gmail.com
