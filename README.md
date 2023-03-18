@@ -45,11 +45,9 @@ Alternatively, for an easier method of accessing the app, use the heroku link.
 
 When the app is opened, the user will be brought to a landing page with a 'Get Started' button. Clicking this button will take the user to the Notes App, where they can enter and save notes. Saved notes will be displayed in the left-hand sidebar, and when one of these notes is clicked, it will appear in the main notes section. If the user would like to enter a new note, they can click the pencil icon in the top right corner, which will clear all the input fields. To delete a note, the user can click the delete icon which is next to each note in the sidebar.![landing page demo](images/demo1.png)
 
-![note taking demo](images/demo2.png)
-
-![note taking demo](images/demo3.png)
-
-
+![image](https://user-images.githubusercontent.com/118794860/226145733-4a53616c-8990-482d-a16a-9e3fd5ae58ca.png)
+![image](https://user-images.githubusercontent.com/118794860/226145738-32ca8af3-d237-4eb7-9f28-d150842b0901.png)
+![image](https://user-images.githubusercontent.com/118794860/226145745-1aac5440-9cbd-4c7a-9a14-4541a82c735d.png)
  
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-orange)
